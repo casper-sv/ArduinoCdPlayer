@@ -6,4 +6,4 @@ Based on the [ATAPIDUINO](http://singlevalve.web.fc2.com/Atapiduino/atapiduino.h
 
 For more details, see project on [hackaday.io](https://hackaday.io/project/176545-arduino-cd-player).
 
-
+Modification with using two MCP23017 (adress 0x40 and 0x42).
